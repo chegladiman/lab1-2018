@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521594476 source:d:\facundo dominguez\clase 1 againn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windef.h>
+
